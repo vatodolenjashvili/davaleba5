@@ -1,0 +1,211 @@
+header {
+  display: flex;
+}
+.Logo {
+  margin-top: 69px;
+  margin-bottom: 69px;
+  margin-left: -190px;
+}
+
+.saxeli {
+  color: #274c5b;
+  font-size: 38px;
+  margin-left: 180px;
+  margin-top: 75px;
+}
+
+.sarchevi {
+  color: #274c5b;
+  display: flex;
+  font-size: 20px;
+  margin-left: 300px;
+  margin-top: 90px;
+}
+
+li {
+  margin-left: 23px;
+}
+
+.kaci {
+  width: 1400px;
+  height: 742px;
+  margin-top: 96px;
+  margin-left: 60px;
+}
+
+.store {
+  font-size: 50px;
+  color: #274c5b;
+  margin-left: 290px;
+  margin-top: 50px;
+}
+
+.didi {
+  color: #274c5b;
+  font-size: 18px;
+  width: 936px;
+  height: 180px;
+  margin-left: 290px;
+  margin-top: 20px;
+}
+
+.didi2 {
+  color: #274c5b;
+  font-size: 18px;
+  width: 936px;
+  height: 180px;
+  margin-left: 290px;
+}
+
+.maindiv {
+  display: flex;
+}
+
+.divphoto {
+  margin-left: 290px;
+  width: 476px;
+  height: 357.75px;
+}
+
+.divtext {
+  background-color: #f9f8f8;
+  margin-left: -50px;
+  width: 537px;
+  height: 260px;
+}
+
+.divp {
+  color: #525c60;
+  font-size: 18px;
+  margin-left: 60px;
+  margin-top: 10px;
+  background-color: #f9f8f8;
+  width: 447px;
+  height: 90px;
+}
+
+h4 {
+  display: flex;
+  color: #274c5b;
+  width: 142px;
+  height: 29px;
+  font-size: 25px;
+  margin-left: 60px;
+  margin-top: 50px;
+}
+
+.maindiv2 {
+  display: flex;
+}
+
+.divphoto2 {
+  margin-left: 40px;
+  width: 420px;
+  height: 280px;
+}
+
+.divp2 {
+  color: #525c60;
+  font-size: 18px;
+  background-color: #f9f8f8;
+  margin-top: 10px;
+  width: 447px;
+  height: 90px;
+  margin-left: 60px;
+}
+
+.produce {
+  color: #274c5b;
+  font-size: 25px;
+  margin-left: 60px;
+  margin-top: 50px;
+}
+
+.divtext2 {
+  background-color: #f9f8f8;
+  width: 537px;
+  height: 252px;
+  margin-left: 290px;
+}
+
+.farm {
+  color: #274c5b;
+  font-size: 35px;
+  margin-top: 60px;
+  margin-left: 290px;
+}
+
+.farmp {
+  color: #525c60;
+  font-size: 18px;
+  width: 936px;
+  height: 90px;
+  margin-left: 290px;
+  margin-top: 20px;
+}
+
+.orange {
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.us {
+  color: #274c5b;
+  font-size: 30px;
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.email {
+  font-size: 18px;
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.info {
+  color: #525c60;
+  font-size: 18px;
+  margin-left: 60px;
+  margin-top: 5px;
+}
+
+.divlogo {
+  display: flex;
+  margin-left: 650px;
+  margin-top: -270px;
+}
+
+.saxeli2 {
+  color: #274c5b;
+  font-size: 38px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.pbolo {
+  color: #525c60;
+  font-size: 18px;
+  width: 543px;
+  height: 60px;
+  margin-top: 20px;
+  margin-left: 520px;
+  text-align: center;
+}
+
+.pages {
+  color: #274c5b;
+  font-size: 30px;
+  margin-left: 1250px;
+  margin-top: -128px;
+}
+
+.lastdiv {
+  color: #525c60;
+  font-size: 18px;
+  margin-left: 1228px;
+  margin-top: 10px;
+}
+
+.lili {
+  margin-top: 20px;
+}
